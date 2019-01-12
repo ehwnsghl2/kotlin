@@ -26,13 +26,13 @@
   2. MutableListof : add() 사용 가능
      Ex) val mutable: MutableList<String> = MutableListof("foo", "bar", "baz");
 
-*메서드
+* 메서드
 
     fun gerrt(name: String) : Unit {		Unit -> Void
     }						Void 같은 경우 생략도 가능
 
 
-*클래스&인터페이스 선언
+* 클래스&인터페이스 선언
 
 *조건문 
 
